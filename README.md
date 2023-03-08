@@ -1,3 +1,4 @@
+## Note: this is not functional yet
 # Variety
 
 Variety is a wallpaper manager for Linux systems. It supports out-of-the-box most Linux desktop environments, and can be configured to work 
